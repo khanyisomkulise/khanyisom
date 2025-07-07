@@ -1,4 +1,4 @@
-# khanyisom
+# khanyiso Mkulise
 About Me
 👋 Hi, I'm Khanyiso Mkulise
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/khanyiso-mkulise-b59938372" target="_blank">
