@@ -2,10 +2,10 @@
 About Me
 👋 Hi, I'm Khanyiso Mkulise
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/khanyiso-mkulise-b59938372" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+
 </a>
 <a href="https://www.google.com/search?q=https://zonebrozstudios.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-4A90E2%3Fstyle%3Dfor-the-badge%26logo%3DGoogleChrome%26logoColor%3Dwhite" alt="Website"/>
+
 </a>
 
 I'm a passionate developer and the Co-founder/CTO at ZoneBroz Studios, where we're focused on building intuitive and practical applications for everyday life. My goal is to leverage technology to create solutions that are not just functional, but genuinely useful and easy for people to integrate into their daily routines.
