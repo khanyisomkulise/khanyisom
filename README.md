@@ -30,8 +30,8 @@ Key Features: User Profiles, Pet Profiles, Schedule Management, Health Logging.
 
 Tech Used: React, JavaScript, Firebase (or other backend)
 
-(You can replace the text above with a link to your repository once it's public!)
-[View on GitHub](your-repo-link-here)
+
+
 
 📫 Let's Connect!
 I'm always open to connecting with fellow developers, entrepreneurs, and tech enthusiasts.
